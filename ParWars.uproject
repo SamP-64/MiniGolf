@@ -1,8 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "{86880042-4F5E-A96C-0B18-C2B2AB5A0430}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ParWars",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
